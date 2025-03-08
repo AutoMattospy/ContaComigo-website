@@ -1,0 +1,16 @@
+{
+  "name": "contacomigo-site",
+  "version": "1.0.0",
+  "description": "Um site moderno e responsivo para o escritório de contabilidade ContaComigo.",
+  "main": "src/assets/scripts/main.js",
+  "scripts": {
+    "start": "live-server src/pages",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "author": "ContaComigo",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
